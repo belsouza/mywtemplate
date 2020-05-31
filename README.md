@@ -1,0 +1,2 @@
+# meuwtemplate
+Template WordPress basicao
